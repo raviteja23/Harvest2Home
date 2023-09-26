@@ -1,0 +1,2 @@
+FLASK_APP=h2h.py
+FLASK_DEBUG=1
